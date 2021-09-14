@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Isaacman</title>
   <icon>https://devfinesse.github.io/icon.png</icon>
-  
+  <subtitle>An all round blog</subtitle>
   <link href="https://devfinesse.github.io/atom.xml" rel="self"/>
   
   <link href="https://devfinesse.github.io/"/>
